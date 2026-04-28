@@ -32,3 +32,5 @@ Setting the world on fire
 Even newer conflict
 no conflict
 >>>>>>> 64a25e4cb8e5f1e237404c1c7349437834cc451a
+
+This is a test for the pull request
